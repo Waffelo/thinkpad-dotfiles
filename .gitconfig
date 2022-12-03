@@ -1,0 +1,7 @@
+[user]
+	email = waffelo.xyz@gmail.com
+	name = Waffelo
+[credential]
+	helper = cache --timeout=3600000
+[core]
+	editor = nvim
